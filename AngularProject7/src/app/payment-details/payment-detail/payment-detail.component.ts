@@ -7,7 +7,6 @@ import { PaymentDetailService } from 'src/app/shared/payment-detail.service';
   selector: 'app-payment-detail',
   templateUrl:'./payment-detail.component.html',
   styles:[]
-
 })
 
 export class PaymentDetailComponent implements OnInit {
